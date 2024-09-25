@@ -12,12 +12,12 @@ pip install -r requirements.txt
 
 ## Model Weights
 
-The model weights for this project are hosted on Hugging Face. You can access them by visiting [this link](xxx).
+The model weights for this project are hosted on Hugging Face. You can access them by visiting [this link](https://huggingface.co/Math-PUMA).
 
 
 ## Data for Training
 
-The training data used for this model is also available on Hugging Face. You can find the dataset by visiting [this link](xxx).
+The training data used for this model is also available on Hugging Face. You can find the dataset by visiting [this link](https://huggingface.co/Math-PUMA).
 
 ## Train
 
