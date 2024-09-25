@@ -1,7 +1,12 @@
-# Math-PUMA
+# <img src="images/puma-logo.png" alt="Logo" width="30" height="30" style="vertical-align:-5px;">Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning
+![Mathematical Reasoning](https://img.shields.io/badge/Task-Mathematical_Reasoning-red) 
+![Multi-Modal](https://img.shields.io/badge/Task-Multi--Modal-red) 
 
-This is the official repository of "[Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning](https://www.arxiv.org/abs/2408.08640)".
+Official repository of "[Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning](https://www.arxiv.org/abs/2408.08640)".
 
+[[📖 Paper](https://www.arxiv.org/abs/2408.08640)] [[🤗 Models](https://huggingface.co/Math-PUMA)] [[🤗 Datasets](https://huggingface.co/Math-PUMA)]
+
+![ex1](images/framework.jpg)
 ## Install
 
 ```bash
@@ -12,7 +17,12 @@ pip install -r requirements.txt
 
 ## Model Weights
 
-The model weights for this project are hosted on Hugging Face. You can access them by visiting [this link](https://huggingface.co/Math-PUMA).
+The model weights for this project are hosted on Hugging Face. 
+| Model                 | Download                                                                    |
+|-----------------------|-----------------------------------------------------------------------------|
+| Math-PUMA_Qwen2VL-1.5B | [🤗 Hugging Face](https://huggingface.co/Math-PUMA/Math-PUMA_Qwen2VL-1.5B) |
+| Math-PUMA_Qwen2VL-7B  | [🤗 Hugging Face](https://huggingface.co/Math-PUMA/Math-PUMA_Qwen2VL-7B) |
+| Math-PUMA_DeepSeek-Math-VL-7B    | [🤗 Hugging Face](https://huggingface.co/Math-PUMA/Math-PUMA_DeepSeek-Math-VL-7B)   |
 
 
 ## Data for Training
