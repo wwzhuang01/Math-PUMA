@@ -4,7 +4,7 @@
 
 Official repository of "[Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning](https://www.arxiv.org/abs/2408.08640)".
 
-[[📖 Paper](https://www.arxiv.org/abs/2408.08640)] [🤗 [Models](https://huggingface.co/Math-PUMA)] [🤗 [Datasets](https://huggingface.co/Math-PUMA)]
+[📖 [Paper](https://www.arxiv.org/abs/2408.08640)] [🤗 [Models](https://huggingface.co/Math-PUMA)] [🤗 [Datasets](https://huggingface.co/Math-PUMA)]
 
 ![ex1](images/framework.jpg)
 ## Install
