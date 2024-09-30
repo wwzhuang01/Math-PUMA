@@ -4,7 +4,7 @@
 
 Official repository of "[Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning](https://www.arxiv.org/abs/2408.08640)".
 
-[[📖 Paper](https://www.arxiv.org/abs/2408.08640)] [[🤗 Models](https://huggingface.co/Math-PUMA)] [[🤗 Datasets](https://huggingface.co/Math-PUMA)]
+[[📖 Paper](https://www.arxiv.org/abs/2408.08640)] [🤗 [Models](https://huggingface.co/Math-PUMA)] [🤗 [Datasets](https://huggingface.co/Math-PUMA)]
 
 ![ex1](images/framework.jpg)
 ## Install
@@ -20,9 +20,9 @@ pip install -r requirements.txt
 The model weights for this project are hosted on Hugging Face. 
 | Model                 | Download                                                                    |
 |-----------------------|-----------------------------------------------------------------------------|
-| Math-PUMA_Qwen2VL-1.5B | [🤗 Hugging Face](https://huggingface.co/Math-PUMA/Math-PUMA_Qwen2VL-1.5B) |
-| Math-PUMA_Qwen2VL-7B  | [🤗 Hugging Face](https://huggingface.co/Math-PUMA/Math-PUMA_Qwen2VL-7B) |
-| Math-PUMA_DeepSeek-Math-VL-7B    | [🤗 Hugging Face](https://huggingface.co/Math-PUMA/Math-PUMA_DeepSeek-Math-VL-7B)   |
+| Math-PUMA_Qwen2VL-1.5B | 🤗 [Hugging Face](https://huggingface.co/Math-PUMA/Math-PUMA_Qwen2VL-1.5B) |
+| Math-PUMA_Qwen2VL-7B  | 🤗 [Hugging Face](https://huggingface.co/Math-PUMA/Math-PUMA_Qwen2VL-7B) |
+| Math-PUMA_DeepSeek-Math-VL-7B    | 🤗 [Hugging Face](https://huggingface.co/Math-PUMA/Math-PUMA_DeepSeek-Math-VL-7B)   |
 
 
 ## Data for Training
