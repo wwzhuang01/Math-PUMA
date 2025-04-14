@@ -80,10 +80,13 @@ In `./eval/evaluate/benchmark.py`:
 If you find **Math-PUMA** useful for your research and applications, please kindly cite using this BibTeX:
 
 ```bibtex
-@article{zhuang2024math,
+@inproceedings{zhuang2025math,
   title={Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning},
   author={Zhuang, Wenwen and Huang, Xin and Zhang, Xiantao and Zeng, Jin},
-  journal={arXiv preprint arXiv:2408.08640},
-  year={2024}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={24},
+  pages={26183--26191},
+  year={2025}
 }
 ```
